@@ -1,2 +1,2 @@
 # WebBuilder
-An Open Source CMS which provides a highly customizable management platform for larger websites in a simple interface.
+An Open Source CMS which provides a highly customizable management platform for complex websites in a simple interface.
