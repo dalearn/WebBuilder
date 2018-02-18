@@ -1,0 +1,4 @@
+.atom-build.yml
+.DS_Store
+node_modules/
+npm-debug.log
